@@ -1,0 +1,9 @@
+{
+  "HOME": {
+    "TITLE": "Inicio",
+    "SELECT_LANG": "Selecciona un idioma",
+    "GREETING": "¡Bienvenido a la App!",
+    "DESCRIPTION": "Esta aplicación utiliza internacionalización (i18n) dinámica con componentes Standalone y la nueva sintaxis de Angular.",
+    "BUTTON_ACTION": "Continuar"
+  }
+}
